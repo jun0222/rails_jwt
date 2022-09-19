@@ -40,8 +40,10 @@ docker-compose build
 docker-compose run web rails new . --force --no-deps --database=mysql
 docker-compose run web rails webpacker:install
 docker-compose run web rails db:create
+docker-compose up
 ```
 
+http://localhost:3003 で見られる  
 うまくいかなければ参考記事を見る
 
 # エラーなど
