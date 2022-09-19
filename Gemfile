@@ -28,6 +28,9 @@ gem 'jbuilder', '~> 2.7'
 # docker-compose run web rails webpacker:installでエラーになるため
 gem 'public_suffix', '~> 5.0'
 
+# 参考：https://blog.shimar.me/2017/02/10/ruby-jwt
+gem 'jwt'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
