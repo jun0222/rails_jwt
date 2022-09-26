@@ -1,0 +1,2 @@
+module JwtExamplesHelper
+end
