@@ -3,8 +3,8 @@
 <!-- TOC -->
 
 - [目次](#目次)
-- [概要](#概要)
 - [参考記事](#参考記事)
+- [概要](#概要)
 - [動作コード](#動作コード)
       - [app/controllers/jwt_examples_controller.rb](#appcontrollersjwt_examples_controllerrb)
 - [環境構築](#環境構築)
@@ -15,15 +15,15 @@
 
 <!-- /TOC -->
 
-# 概要
-
-Ruby on Rails 環境で jwt の動作を確認してまとめる
-
 # 参考記事
 
 - [Ruby で JWT を扱う](https://blog.shimar.me/2017/02/10/ruby-jwt)
 - [docker-compose で Rails 6×MySQL の開発環境を構築する方法](https://zenn.dev/tmasuyama1114/articles/4ed199ce0478e7)
 - [JWT の概要と Ruby における使い方のメモ](https://qiita.com/sukechannnn/items/0ea1bb4f736ac7108f62)
+
+# 概要
+
+Ruby on Rails 環境で jwt の動作を確認してまとめる
 
 # 動作コード
 
