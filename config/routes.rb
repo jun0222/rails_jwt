@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
   get '/jwt_examples/non_signature', to: 'jwt_examples#non_signature'
   get '/jwt_examples/hmac', to: 'jwt_examples#hmac'
